@@ -54,7 +54,8 @@ Developed an interactive **Power BI dashboard** containing **KPIs, charts, and i
 
 ## Dashboard
 
-Add screenshots of your Power BI dashboard here.
+<img width="830" height="513" alt="image" src="https://github.com/user-attachments/assets/22d1c215-e293-4dc7-a7e3-4b5e208a8df0" />
+
 
 ## Project Outcome
 
