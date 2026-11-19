@@ -59,11 +59,23 @@ Business Insights
 
 ## Dashboard
 
-### 1. AI Adoption & Productivity Insights
+### 1. AI Usage Overview
+
+<img width="1066" height="605" alt="AI_Usage_Overview" src="https://github.com/user-attachments/assets/5f1b24c7-dcdd-42df-8fd2-78c71df6b2c6" />
+
+
+This dashboard analyzes:
+
+- AI Usage by Industry
+- AI Usage by Company Size
+- AI Usage by Year
+- Country-wise AI Usage
+- AI Usage by Job Role
+- AI Usage by Age Group
+
+### 2. AI Adoption & Productivity Insights
 
 <img width="1069" height="602" alt="AI_Adoption_and_Productivity" src="https://github.com/user-attachments/assets/1cbe45da-4576-471a-ad5a-10f58eca2d99" />
-
-
 
 The dashboard provides an overview of:
 
@@ -78,20 +90,6 @@ The dashboard provides an overview of:
 - Tasks Automated by AI Usage
 - Training Hours by AI Usage
 - Workload Level by AI Skill Level
-
-### 2. AI Usage Overview
-
-<img width="1066" height="605" alt="AI_Usage_Overview" src="https://github.com/user-attachments/assets/5f1b24c7-dcdd-42df-8fd2-78c71df6b2c6" />
-
-
-This dashboard analyzes:
-
-- AI Usage by Industry
-- AI Usage by Company Size
-- AI Usage by Year
-- Country-wise AI Usage
-- AI Usage by Job Role
-- AI Usage by Age Group
 
 ### 3. AI Workplace Metrics
 
