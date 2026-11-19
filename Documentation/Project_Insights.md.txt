@@ -1,0 +1,54 @@
+# Project Insights
+
+## 1. AI Adoption
+
+The analysis examines AI adoption across different industries, countries, company sizes, job roles, and age groups.
+
+## 2. Productivity
+
+The dashboard analyzes the change in productivity associated with AI usage and compares productivity across different AI usage levels.
+
+## 3. Time Saved
+
+The project analyzes the number of hours saved per week through AI adoption and compares time savings across AI usage categories.
+
+## 4. Job Satisfaction
+
+The analysis examines job satisfaction in relation to AI usage to understand the relationship between AI adoption and employee experience.
+
+## 5. AI Training
+
+Training hours are analyzed across different levels of AI usage and AI skill levels to understand the importance of employee upskilling.
+
+## 6. AI Costs
+
+The dashboard examines monthly AI-related costs and compares costs across different workplace segments.
+
+## 7. Industry Analysis
+
+AI adoption is compared across industries to identify differences in adoption patterns.
+
+## 8. Workforce Analysis
+
+The project analyzes AI adoption across:
+
+- Age groups
+- Job roles
+- Company sizes
+- Countries
+- Industries
+
+## 9. Key Takeaway
+
+The dashboard provides an interactive view of AI adoption and its relationship with workplace productivity, time savings, job satisfaction, training, and cost.
+
+## Tools Used
+
+- Excel
+- Python
+- SQL
+- Power BI
+
+## Conclusion
+
+This project demonstrates the use of data cleaning, exploratory analysis, SQL querying, and Power BI visualization to convert AI adoption data into meaningful business insights.
