@@ -61,6 +61,10 @@ Business Insights
 
 ### 1. AI Adoption & Productivity Insights
 
+<img width="1069" height="602" alt="AI_Adoption_and_Productivity" src="https://github.com/user-attachments/assets/1cbe45da-4576-471a-ad5a-10f58eca2d99" />
+
+
+
 The dashboard provides an overview of:
 
 - Average Hours Saved
@@ -77,6 +81,9 @@ The dashboard provides an overview of:
 
 ### 2. AI Usage Overview
 
+<img width="1066" height="605" alt="AI_Usage_Overview" src="https://github.com/user-attachments/assets/5f1b24c7-dcdd-42df-8fd2-78c71df6b2c6" />
+
+
 This dashboard analyzes:
 
 - AI Usage by Industry
@@ -87,6 +94,8 @@ This dashboard analyzes:
 - AI Usage by Age Group
 
 ### 3. AI Workplace Metrics
+
+<img width="1070" height="568" alt="AI_Workplace_Metrics" src="https://github.com/user-attachments/assets/11913b83-fcfb-4573-98bb-d2a5f8100ca8" />
 
 This page provides detailed workplace-level data using a table with filters for:
 
